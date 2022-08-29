@@ -3,10 +3,12 @@ import React from "react";
 
 const Navbar = () => {
     return (
-<nav class="navbar navbar-dark bg-dark">
-  <h1>HOME</h1>
-  
-</nav>
+<nav className="navbar navbar-dark bg-dark text-white">
+  <div>
+  <h3>Start Boostrap</h3> <h6>Home</h6>
+  <h6>About</h6> <h6>Service</h6> <h6>Contact</h6> 
+  </div>
+  </nav>
     );
 };
 
