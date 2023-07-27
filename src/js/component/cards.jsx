@@ -5,7 +5,7 @@ const Cards = () => {
   return (
     <>
       <div className="container py-5">
-        <div className="row d-flex justify-content-between">
+        <div className="row">
             <Card className="col-3"/>
             <Card className="col-3"/>
             <Card className="col-3"/>

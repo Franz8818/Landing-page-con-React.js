@@ -1,7 +1,7 @@
 import React from "react";
 const Card = () => {
     return (
-        <div className="card mx-auto mt-2 p-0" style={{ width: 17 + "rem" }}>
+        <div className="card mx-auto mt-2 p-0" style={{ width: 12 + "rem" }}>
             <img
                 // src="https://www.softzone.es/app/uploads-softzone.es/2021/05/Error-de-pantalla-negra-con-el-cursor-a-la-vista.jpg?x=480&y=375&quality=40"
                 src="https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png"
